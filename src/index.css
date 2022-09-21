@@ -19,6 +19,10 @@ h6 {
   margin-bottom: 1em;
 }
 
+h1Style {
+  color: firebrick
+}
+
 nav {
   position: fixed;
   top: 0;
